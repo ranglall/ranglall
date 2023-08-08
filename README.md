@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hello there 👋
 
+I am a Computer Science and Data Analytics student at the University of St. Thomas, specializing in Informational Systems with a minor in Spanish. Currently, I am gaining valuable experience as a Service Desk and Desktop Support Intern, contributing to the smooth rollout of Windows and Apple devices in close collaboration with our full-time ITS staff. 
+
+Aside from my internship, I also hold positions as a Service Desk Technical Support Specialist and a Computer Science Grader. In these roles, I offer professional assistance with hardware and software issues, as well as evaluate Java coding labs while providing valuable feedback to enhance coding skills.
+
+My proficiency extends to the Microsoft Office Suite and Java, and I hold certifications in Cybersecurity and Network Security, reflecting my commitment to staying updated with industry trends.
+
+On a personal note, I have achieved Intermediate High Spanish proficiency, earning a Minnesota Gold Bilingual Seal.
+
+I am eager to connect and explore our mutual passion for technology! Let's connect and share our insights in the ever-evolving world of IT.
 <!--
 **ranglall/ranglall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
